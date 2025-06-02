@@ -1,0 +1,4 @@
+# server/.gitignore
+node_modules/
+.env
+serviceAccountKey.json
