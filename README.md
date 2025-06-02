@@ -1,4 +1,4 @@
-# MineSweeperCoop
+# MineSweeperCoop README
 
 ## Requisiti iniziali
 Assicurati di aggiungere due file non inclusi per sicurezza:
