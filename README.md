@@ -12,14 +12,14 @@ Avvio del server:
   npm install  
   node index.js
 
-Avvio del client
-  cd MineSweeperClient
-  npm install
-  npm run build
+Avvio del client  
+  cd MineSweeperClient  
+  npm install  
+  npm run build  
   npm run preview
 
 ### Firestore
-Il progetto utilizza **Firebase Firestore**. Di seguito le regole che ho utilizzato
+Il progetto utilizza **Firebase Firestore**. Di seguito le regole che ho utilizzato  
 
 rules_version = '2';
 
