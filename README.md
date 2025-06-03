@@ -7,9 +7,9 @@ Assicurati di aggiungere due file non inclusi per sicurezza:
 - `serviceAccountKey.json` → le credenziali Firebase Admin SDK.
 
 ## Avvio del progetto
-Avvio del server:__
-  cd MineSweeperServer__
-  npm install__
+Avvio del server:  
+  cd MineSweeperServer  
+  npm install  
   node index.js
 
 Avvio del client
