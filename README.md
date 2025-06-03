@@ -8,9 +8,10 @@ Assicurati di aggiungere due file non inclusi per sicurezza:
 
 ## Avvio del progetto
 Avvio del server:
-  -cd MineSweeperServer
-  -npm install
-  -node index.js
+  cd MineSweeperServer
+  npm install
+  node index.js
+  z
 
 Avvio del client
   cd MineSweeperClient
