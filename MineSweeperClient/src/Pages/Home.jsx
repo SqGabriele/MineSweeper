@@ -322,7 +322,7 @@ function Home() {
       await updateDoc(userDocRef, {  requests: data.requests });
 
       //notifica il mittente che la richiesta è stata rifiutata/accettata
-      await fetch(`${import.meta.env.VITE_API_URL}/send-`+response`-notification`, {
+      await fetch(`${import.meta.env.VITE_API_URL}/send-`+response+`-notification`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
